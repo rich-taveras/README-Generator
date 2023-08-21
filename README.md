@@ -13,7 +13,7 @@ Create professional and consistent README files with ease using the README Gener
 
 video: https://drive.google.com/file/d/1Ow4j7wXxTJ1v3pn5vcmVXJNpUTg2MOqp/view
 
-link: https://rich-taveras.github.io/README-generation/
+link: https://github.com/rich-taveras/README-Generator
 
 ## Installation
 
