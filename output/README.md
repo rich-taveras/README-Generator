@@ -1,10 +1,10 @@
-# Generate README 
+# README Generator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
   
-  Write a project description
+  This is a README Generator app.
   
 ## Table of Contents (Optional)
   
@@ -19,12 +19,16 @@
   
 ## Installation
 
-  Step for Installation
-
+  1. Clone this repository to your local machine.
+2. Navigate to the project directory.
+3. Run npm install to install the required dependencies.
   
 ## Usage
   
-  Steps how to use
+  1. Open a terminal and navigate to the project directory.
+2. Run the generator using the command: node index.js.
+3. Follow the prompts to provide information about your project.
+4. Once completed, the generator will create a README file with the provided information.
   
   To add a screenshot, create an assets/images folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
   md
@@ -39,7 +43,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 ## Contribution
   
-  Rich Taveras, John Doe
+  Project
   
 ## Tests
   Yes
